@@ -1,6 +1,6 @@
 
-## COVID19 genome/gene comparison
-#### Advanced Bioinformatics Programming (Prog III) - BINF 6380/8380
+## COVID19 genome/ ORF1ab gene comparison
+#### Bioinformatics Programming (Prog II) - BINF-6112 
 #### Matt Fry mkfry@uncc.edu
 
 ### In this project, I attempt to compare common genes represented by the SARS-CoV2 genome uploaded to 
