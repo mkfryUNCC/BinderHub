@@ -16,10 +16,10 @@ import sys
 
 
 #### Cool Tools:
-|  Tools |  modules|  | Link  |
+
+| Tools  | Modules  | Link  |
 |---|---|---|
-| IDE |  mybinder|  https://mybinder.org/ |
-| datadisplay | pandas |  https://pandas.pydata.org/ |
-|  sequence_parse |  biopython|  https://biopython.org/ | 
-|  External_DataComparison | BLAST |  https://www.ncbi.nlm.nih.gov/ | 
+| IDE  | mybinder  |  https://mybinder.org/ |
+|  sequence_parse  |  pandas | https://pandas.pydata.org/   |
+|  External_DataComparison |  BLAST | https://biopython.org/  |
 
