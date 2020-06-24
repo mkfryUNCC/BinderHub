@@ -13,13 +13,14 @@ import sys
 {sys.executable} -m pip install matplotlib
 ```
 #### You will need to preform these module installs everytime you open the mybinder option for the session goes away when you leave the mybinder.org session...
-
+https://jupyter.org/
 
 #### Cool Tools:
 
 | Tools  | Modules  | Link  |
 |---|---|---|
-| IDE | mybinder |  https://mybinder.org/   |
+| IDE | jupyter_notebook |  https://jupyter.org/  |
+| remoteIDE | mybinder |  https://mybinder.org/   |
 | Data_Display | pandas  |  https://pandas.pydata.org/  |
 |  Sequence_Parse  |  biopython | https://biopython.org/ |
 |  External_Data_Comparison |  BLAST | https://www.ncbi.nlm.nih.gov/   |
