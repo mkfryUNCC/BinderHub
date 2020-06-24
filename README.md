@@ -19,7 +19,9 @@ import sys
 
 | Tools  | Modules  | Link  |
 |---|---|---|
-| IDE  | mybinder  |  https://mybinder.org/ |
-|  sequence_parse  |  pandas | https://pandas.pydata.org/   |
-|  External_DataComparison |  BLAST | https://biopython.org/  |
+| IDE | mybinder |  https://mybinder.org/   |
+| Data_Display | pandas  |  https://pandas.pydata.org/  |
+|  Sequence_Parse  |  biopython | https://biopython.org/ |
+|  External_Data_Comparison |  BLAST | https://www.ncbi.nlm.nih.gov/   |
+
 
