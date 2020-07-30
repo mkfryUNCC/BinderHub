@@ -4,7 +4,7 @@
 #### Matt Fry mkfry@uncc.edu
 
 ### In this project, I attempt to compare common genes represented by the SARS-CoV2 genome uploaded to 
-### [The National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/ ).  I wanted to detect differences in two human uploads, the first upload detected in humans and the one that was closest my living area...  I was amazed at the rate it traveled from a known location in Wuhan China to the USA, and spreading throughout each state... In addition, I wanted to see how these relate to the supected carrier in the Wuhan bat.
+### [The National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/ ).  I wanted to detect differences in two human uploads, the first upload detected in humans and the one that was closest my living area...  I was amazed at the rate it traveled from a known location in Wuhan China to the USA, and spreading throughout each state... In addition, I wanted to see how these relate to the suspected carrier in the Wuhan bat.
 
 
 #### Data references:
